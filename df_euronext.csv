@@ -1,4 +1,4 @@
-ticker;shorName;sector;industry;last_price;range_52_weeks;averageVolume10days;dividendYield;exDividendDate;profitMargins;trailingPE;forwardPE;trailingEps;forwardEps;beta;marketCap;mostRecentQuarter;currency;modification_date
+ticker;shortName;sector;industry;last_price;range_52_weeks;averageVolume10days;dividendYield;exDividendDate;profitMargins;trailingPE;forwardPE;trailingEps;forwardEps;beta;marketCap;mostRecentQuarter;currency;modification_date
 cs.pa;AXA;Financial Services;Insuranceâ€”Diversified;26.38999938964844;20.33 - 29.09;5070264;0.0617;1651795200.0;0.06875;21.112;7.693877;1.25;3.43;1.425759;63066030080.0;1656547200.0;EUR;1671566264
 toup.pa;TOUAX;Industrials;Rental & Leasing Services;7.980000019073486;5.84 - 9.18;5483;;1419897600.0;0.09195;9.5;34.695652;0.84;0.23;1.681215;55253760.0;1656547200.0;EUR;1671566264
 finm.pa;FINANCIERE MARJOS;Industrials;Conglomerates;0.1180000007152557;0.10 - 0.24;23728;;711158400.0;0.0;;;-0.012;;0.536585;2356165.0;1656547200.0;EUR;1671566264
