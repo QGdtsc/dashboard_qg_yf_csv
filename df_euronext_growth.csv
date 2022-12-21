@@ -1,4 +1,4 @@
-ticker;shorName;sector;industry;last_price;range_52_weeks;averageVolume10days;dividendYield;exDividendDate;profitMargins;trailingPE;forwardPE;trailingEps;forwardEps;beta;marketCap;mostRecentQuarter;currency;modification_date
+ticker;shortName;sector;industry;last_price;range_52_weeks;averageVolume10days;dividendYield;exDividendDate;profitMargins;trailingPE;forwardPE;trailingEps;forwardEps;beta;marketCap;mostRecentQuarter;currency;modification_date
 mio.ir;MINCON GROUP PLC;Industrials;Tools & Accessories;1.0;0.87 - 1.42;49766.0;0.021;1660780800.0;0.09089;14.285714;;0.07;;0.248335;212472000.0;1656547200.0;EUR;1671615059
 alrib.pa;RIBER;Technology;Semiconductor Equipment & Materials;1.7139999866485596;1.28 - 1.93;6633.0;0.0309;1656547200.0;0.054229997;21.425001;17.14;0.08;0.1;1.212299;35998972.0;1656547200.0;EUR;1671615059
 alttu.pa;TATATU S.p.A.;Technology;Software—Application;7.800000190734863;2.00 - 10.50;109.0;;;0.02135;;;0.0;;;6351267328.0;1656547200.0;EUR;1671615059
