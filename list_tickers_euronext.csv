@@ -202,6 +202,7 @@ dge.pa
 dcacs.as
 dmsim.br
 dpam.pa
+dsfir.as
 dsm.as
 eas2p.as
 ebus.as
@@ -613,7 +614,7 @@ ubi.pa
 ucb.br
 umg.as
 umi.br
-urw.as
+urw.pa
 unbl.pa
 upg.br
 una.as
