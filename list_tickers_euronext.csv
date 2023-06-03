@@ -37,7 +37,6 @@ akw.pa
 akza.as
 aaa.pa
 ald.pa
-aldnv.pa
 alfen.as
 allfg.as
 amund.as
@@ -200,7 +199,6 @@ dcacs.as
 dmsim.br
 dpam.pa
 dsfir.as
-dsm.as
 eas2p.as
 ebus.as
 econb.br
@@ -346,6 +344,8 @@ iva.pa
 ipn.pa
 ips.pa
 ipsnv.pa
+iris.as
+irisu.as
 ite.pa
 jbog.pa
 jcq.pa
@@ -484,8 +484,6 @@ pub.pa
 qrf.br
 qdt.pa
 qfg.br
-rsac.as
-rsacu.as
 ral.pa
 gds.pa
 rand.as
@@ -512,7 +510,6 @@ sgo.pa
 sabe.pa
 sams.pa
 san.pa
-sannv.pa
 dim.pa
 save.pa
 sbmo.as
